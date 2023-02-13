@@ -1,12 +1,9 @@
 /*
  * File: SERVO_cfg.c
  * Driver Name: [[ SERVO Motor ]]
- * SW Layer:   ECUAL
- * Created on: Jun 28, 2020
- * Author:     Khaled Magdy
+ * Created on: 13.02.2023
+ * Author:     Sirbu Artur
  * -------------------------------------------
- * For More Information, Tutorials, etc.
- * Visit Website: www.DeepBlueMbedded.com
  *
  */
 
